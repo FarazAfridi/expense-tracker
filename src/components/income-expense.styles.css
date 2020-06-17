@@ -1,0 +1,19 @@
+.income > h3, h2 {
+    margin: 0;
+}
+.income-expense{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: white;
+    box-shadow: 2px 4px 6px;
+}
+.income {
+    border: 1px solid black;
+    width: 100%;
+}
+.expense { 
+    border: 1px solid black;
+    width: 100%;  
+}
