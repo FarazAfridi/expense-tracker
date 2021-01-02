@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import "./Balance.css";
-import {TransactionType} from "../../Context/TransactionContext"
 import { TransactionContext } from "../../Context/TransactionContext";
 
 const Balance = () => {
